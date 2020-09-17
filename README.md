@@ -1,2 +1,2 @@
-# web_design
-This project is abput crating a kinikan using html and css
+Selenium Project
+This project is about crating a kinikan using html and css
