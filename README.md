@@ -1,2 +1,2 @@
 ## Selenium Project
-This project is about crating a kinikan using html and css
+This project was made using the selenium library to build a bot that can crawl though news sites and get the headlines of the latest news.
